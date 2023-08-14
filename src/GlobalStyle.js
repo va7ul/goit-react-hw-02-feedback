@@ -57,6 +57,7 @@ a {
 
 button {
     border-radius: 5px;
+    border: 1px solid;
 }
 
 
