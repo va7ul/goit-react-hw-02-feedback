@@ -1,5 +1,5 @@
 import { nanoid } from 'nanoid';
-import { List } from './FeedbackOptions';
+import { List } from './FeedbackOptions.style';
 
 export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   return (
